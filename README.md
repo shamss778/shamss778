@@ -53,7 +53,6 @@ Built and trained a deep learning face detection model achieving 0.02 cross‑en
 ---
 
 ### Connect
-📫 [Email](mailto:shams.ben.mefteh5@gmail.com)  
+📫 **Email** : shams.ben.mefteh5@gmail.com  
 💼 [LinkedIn](https://linkedin.com/in/shamsbenmefteh)  
-💡 [Portfolio](https://drive.google.com/drive/folders/1WUtfFCqdH86004gS4q5ZcIL_Phkl6t7L?usp=sharing)
 
