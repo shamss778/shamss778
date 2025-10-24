@@ -4,14 +4,14 @@ Final-year Computer Science Engineering student. I'm currently seeking **6-month
 
 ---
 
-### 🧠 Focus Areas
+### Focus Areas
 - Machine Learning • Deep Learning • Computer Vision  
 - Image Processing • Applied AI Research • Video Processing • Object Detection
 - Cloud & MLOps (AWS, Docker, Kubernetes)
 
 ---
 
-### 🔨 Projects
+### Projects
 **[Occlusion Resilient Human Pose Estimation](https://github.com/shamss778/OR_Pose_Implementation)**  
 This is an ongoing projoct, still implementing and comparing models for occlusion-robust pose estimation using Mean Teacher, ResNet101, and regularization with human pose priors.  
 Focused on unsupervised domain adaptation and visibility‑guided curriculum learning. 
@@ -20,17 +20,21 @@ Focused on unsupervised domain adaptation and visibility‑guided curriculum lea
 Designed a Deep Convolutional GAN for synthetic MRI brain data generation.  
 Optimized generator–discriminator structure for stable training and realistic medical image synthesis.
 
-**Deep Learning Face Detection Model at MODERERING**
+**[Deep Learning Face Detection Model at MODERERING]()**
 Built and trained a deep learning face detection model achieving 0.02 cross‑entropy loss and <4% mean absolute error, fine‑tuned on the MRCD dataset to handle face variation, with experiments deployed on AWS SageMaker.
 
 ---
 
-### 🧰 Tech Toolkit 
+### Tech Toolkit 
 **Programming:** Python, MATLAB, C++, Bash  
 **Frameworks & Libraries:** PyTorch, OpenCV, scikit‑learn, NumPy, pandas, Matplotlib  
 **ML Skills:** CNNs, GANs, ResNet, Transformers, Transfer Learning
 **platforms / Cloud:** AWS SageMaker, Linux  
 **Methodologies:** Agile, Git‑based Development
+
+---
+
+📄 [View my résumé (Google Drive)](https://drive.google.com/file/d/1_c4MhnrAHgo4wuVexbBv-VjVhbqnZgAm/view?usp=sharing)
 
 ---
 
@@ -48,7 +52,8 @@ Built and trained a deep learning face detection model achieving 0.02 cross‑en
 
 ---
 
-### 🌍 Let’s Connect
-📫 [Email](mailto:you@example.com)  
-💼 [LinkedIn](https://linkedin.com/in/yourusername)  
-💡 [Portfolio](https://your-portfolio.com)
+### Connect
+📫 [Email](mailto:shams.ben.mefteh5@gmail.com)  
+💼 [LinkedIn](https://linkedin.com/in/shamsbenmefteh)  
+💡 [Portfolio](https://drive.google.com/drive/folders/1WUtfFCqdH86004gS4q5ZcIL_Phkl6t7L?usp=sharing)
+
