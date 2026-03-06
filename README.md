@@ -1,7 +1,5 @@
 # Hey there, I’m Shams Ben Mefteh
 
-Final-year Computer Science Engineering student. I'm currently seeking a **6-month full-time internship**, focusing on **machine learning**, **AI Engineering** and **Deep Learning**.
-
 ---
 
 ### Focus Areas
