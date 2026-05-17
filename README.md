@@ -1,4 +1,4 @@
-# Hey there, I’m Shams Ben Mefteh
+# Hey! I’m Shams 
 
 ---
 
